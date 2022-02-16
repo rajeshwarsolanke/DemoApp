@@ -1,0 +1,2 @@
+insert into ssn_master (created_date, dob, first_name, gender, last_name, state_name, ssn) values (null, null, 'John', 'M', 'Peter', 'Rhode Island', 89788899);
+insert into ssn_master (created_date, dob, first_name, gender, last_name, state_name, ssn) values (null, null, 'Charles', 'M', 'Cedrone', 'New Jersey', 679999988);
